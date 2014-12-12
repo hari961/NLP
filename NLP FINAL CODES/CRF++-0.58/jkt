@@ -1,0 +1,10 @@
+processed 645 tokens with 516 phrases; found: 523 phrases; correct: 455.
+accuracy:  91.47%; precision:  87.00%; recall:  88.18%; FB1:  87.58
+              BLK: precision:  92.73%; recall: 100.00%; FB1:  96.23  55
+              CCP: precision: 100.00%; recall:  84.62%; FB1:  91.67  11
+               NP: precision:  83.66%; recall:  82.58%; FB1:  83.12  306
+              RBP: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+              VGF: precision:  96.36%; recall:  98.15%; FB1:  97.25  55
+            VGINF: precision:  85.71%; recall:  92.31%; FB1:  88.89  14
+             VGNF: precision:  90.32%; recall:  96.55%; FB1:  93.33  62
+             VGNN: precision:  78.95%; recall: 100.00%; FB1:  88.24  19

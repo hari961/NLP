@@ -1,0 +1,12 @@
+f=open("kacha")
+out=f.readlines()
+
+k=open("gold")
+inp=k.readlines()
+
+l=len(inp)
+print l
+
+for i in range(0,l):
+	t1=inp[i]
+	#t2=out[i]

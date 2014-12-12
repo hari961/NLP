@@ -1,0 +1,32 @@
+Name : A. HARI NARAYANA ( 201201111)
+
+       G. SAI VISHWA TEJA (201201176)
+
+The folder structure :
+
+	CRF
+		Outputs ------> Ouputs of CRF
+		Templates ----> Templates used for CRF		
+		
+	CRF++   
+		---> main files used for running CRF
+	Gen_Codes
+		-----> Contains codes for converting formats into required formats
+	Inputs
+	RULE BASED
+		-----> one input file , and chunking.py code
+	Report.pdf
+
+RUNNING :
+		CRF:
+			IN CRF++ directory;
+			./crf_learn template train model
+			./crf -m model test > final_re
+			./qwerty.py < fina-fr
+			./pearl.py --- will get precision	
+
+		RULE BASED:
+			In RULE BASED/Code:
+			In this run chnking_rule_based.py < rulesinput
+
+FOR OUPUTS ....... RReport.pdf 
